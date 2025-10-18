@@ -14,7 +14,6 @@
     <PackageTags>http client helper rest api retry logging json auth</PackageTags>
     <RepositoryUrl>https://github.com/NtshetsoPele/AwesomeHttpClientHelper</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <!--<PackageReadmeFile>README.md</PackageReadmeFile>-->
   </PropertyGroup>
 
   <ItemGroup>

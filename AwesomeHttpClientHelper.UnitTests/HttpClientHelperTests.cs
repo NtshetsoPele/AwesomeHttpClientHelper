@@ -72,7 +72,7 @@ public class HttpClientHelperTests
             .ReturnsAsync(response)
             .Verifiable();
 
-        return new HttpClient(handlerMock.Object);
+        return new (handlerMock.Object);
     }
 
     private static TestRequest GetTestRequest() =>
